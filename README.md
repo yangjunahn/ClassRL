@@ -1,0 +1,1 @@
+The code in this repository is based on the work originally written by the professor during his student years (2018), and has been partially modified to fit the content of the current course. On August 25, 2025, the code was reviewed and checked using Claude Max during the course preparation.
